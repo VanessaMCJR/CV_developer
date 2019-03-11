@@ -1,2 +1,2 @@
-# CV_python_developer
-CV_python_developer
+# CV developer
+CV developer
